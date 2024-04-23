@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.header{
+    text-align: center;
+    padding-top: 5%;
+}
+.header h3{
+    font-family: 'DM Serif Display', serif;
+    font-size: 40px;
+    color: rgb(167, 140, 61);
+    font-weight: 300;
+}
+.header p{
+    font-size: 55px;
+    font-family: 'Great Vibes', cursive;
+    color: rgb(54, 4, 4);
+}
+.main-content{
+    text-align: center;
+    margin-right: 13%;
+    margin-left: 13%;
+    height: 500px;
+}
+.main-content p{
+    font-size: 25px;
+    font-family: 'Arsenal', sans-serif;
+}
+.img-text{
+    background-image: url("../showcase_image/twinkle-light.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+.text-upon-img{
+    height: 600px;
+    background-color: rgba(45, 43, 43, 0.7);
+}
+/* .img-text img{
+    opacity: 65%;
+ }*/
+
+.text-upon-img h1{
+    padding-top: 18%;
+    text-align: center;
+    font-size: 55px;
+    color: white;
+}
+/* .text-upon-img h3{
+    padding-top: 1%;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+} */
+.head{
+    text-align: center;
+    padding-top: 8%;
+}
+.head span{
+    font-size: 70px;
+    font-family: 'Great Vibes', cursive;
+    /* font-family: 'Sacramento', cursive; */
+    /* font-family: 'Allura', cursive; */
+    color: rgb(148, 115, 5);
+}
+.ughh{
+    text-align: center;
+}
+.ughh span{
+    font-size: 40px;
+    font-family: 'Saira Extra Condensed', sans-serif;
+}
+.img-con{
+    text-align: center;
+    /* border-radius: 15px; */
+}
+.img-con img{
+    border-radius: 60%;
+}
+.designation {
+    text-align: center;
+}
+.designation h2{
+    font-size:25px ;
+    /* font-family: 'Mooli', sans-serif; */
+    font-family: 'Italiana', sans-serif;
+}
+.designation h3{
+    font-size: 16px;
+    /* font-family: 'Italiana', sans-serif; */
+    font-family: 'Mooli', sans-serif;
+    color: rgb(164, 112, 15);
+}
